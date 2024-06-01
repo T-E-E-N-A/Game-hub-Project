@@ -1,4 +1,4 @@
-#final project
+#Python project
 import random
 def func():
     print("\t\t Main Menu \t\t")
